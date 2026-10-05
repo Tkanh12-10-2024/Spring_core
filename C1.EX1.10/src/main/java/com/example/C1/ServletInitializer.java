@@ -1,4 +1,4 @@
-package com.example.C1.EX1._0;
+package com.example.C1;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
